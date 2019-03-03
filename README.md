@@ -10,7 +10,11 @@ Can be found under
 * Windows: `%appdata%/Franz/recipes/`
 * Linux: `~/.config/Franz/recipes/`
 
-Create `micrososft-to-do` folder inside the Franz recipe folder.
+Create a `dev` folder.
+
+Open it.
+
+Create `micrososft-to-do` folder inside of the newly created `dev` folder.
 
 Insert the contents of the repository into the newly created `micrososft-to-do` folder.
 
