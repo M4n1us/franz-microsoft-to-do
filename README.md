@@ -16,6 +16,8 @@ Open it.
 
 Create `micrososft-to-do` folder inside of the newly created `dev` folder.
 
+The folder structure should look like this: `Franz\recipes\dev\microsoft-to-do`
+
 Insert the contents of the repository into the newly created `micrososft-to-do` folder.
 
 Restart Franz, add Service, login, done!
