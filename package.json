@@ -5,7 +5,7 @@
   "description": "Microsoft To-Do",
   "main": "index.js",
   "author": "Manuel Kisser <manuelkisser@gmail.com>",
-  "repository": "repository",
+  "repository": "https://github.com/mkisser-tgm/franz-microsoft-to-do",
   "license": "MIT",
   "config": {
     "serviceURL": "https://to-do.microsoft.com/login",
