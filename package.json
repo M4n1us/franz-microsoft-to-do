@@ -1,0 +1,14 @@
+{
+  "id": "microsoft-to-do",
+  "name": "Microsoft To-Do",
+  "version": "0.0.1",
+  "description": "Microsoft To-Do",
+  "main": "index.js",
+  "author": "Manuel Kisser <manuelkisser@gmail.com>",
+  "repository": "repository",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://to-do.microsoft.com/login",
+    "hasNotificationSound": true
+  }
+}
