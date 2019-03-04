@@ -18,7 +18,7 @@ Create `microsoft-to-do` folder inside of the newly created `dev` folder.
 
 Insert the files of the repository into the newly created `microsoft-to-do` folder.
 
-The folder structure should look like this:
+The folder structure should look like this on a windows system:
 
 ```
 C:\USERS\username\APPDATA\ROAMING\FRANZ\RECIPES
